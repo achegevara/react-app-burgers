@@ -3,6 +3,7 @@ It's a simple burger-order app, which consists of the following components:
 - menu
 - order
 - admin panel,
+
 and allows to manage menu(add/remove burgers, make them available/unavailable, change their properties like name, price, description etc.) 
 and add menu items to the order. 
 App data is stored in the Google Firebase and is updated in a real-time mode. 
