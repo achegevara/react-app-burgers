@@ -8,8 +8,7 @@ and allows to manage menu(add/remove burgers, make them available/unavailable, c
 and add menu items to the order. <br />
 App data is stored in the Google Firebase and is updated in a real-time mode. <br />
 
-The app covers only the frontend part of the process and does not make orders for real ;)
-
+The app covers only the frontend part of the process and does not make orders for real ;) <br />
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
