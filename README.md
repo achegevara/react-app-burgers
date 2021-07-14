@@ -11,6 +11,7 @@ App data is stored in the Google Firebase and is updated in a real-time mode. <b
 The app covers only the frontend part of the process and does not make orders for real ;)
 
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory(in a terminal):
