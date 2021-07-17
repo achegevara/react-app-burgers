@@ -1,5 +1,5 @@
 This is my first React project, which was developed while studying React.
-It's a simple burger-order app, which consists of the following components:
+It's a simple burger-order app(mostly built with class components), which consists of the following main components:
 - menu
 - order
 - admin panel,
